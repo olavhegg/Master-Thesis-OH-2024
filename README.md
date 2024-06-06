@@ -7,6 +7,9 @@ This repository contains all the MATLAB scripts, Simulink models, and data files
 - **Author**: Olav Heggelund
 - **Completion Date**: Spring 2024
 
+## Simulation Notes
+Most simulations conducted for this thesis span over 104 weeks, corresponding to a 2-year period. In the Simulink models, this is represented as 1.04 seconds of simulation time, where each week corresponds to 0.01 seconds in the simulation.
+
 ## Folder Structure
 
 ### 4-Announcement
@@ -53,7 +56,7 @@ This folder contains Python scripts and data files used for generating various p
 - Data files: `brent.csv`, `NOKUSD.csv`, `RUB_EUR.csv`, `USDNOK_april_2024.csv`, `USDNOK_april_2024_sorted.csv`
 
 ### Project_Thesis
-This folder contains MATLAB scripts and a Simulink model used for the project thesis delivered in Fall 2024.
+This folder contains MATLAB scripts and a Simulink model used for the project thesis delivered in Fall 2023.
 
 - `parameters.m`: Sets the parameters for the Simulink model.
 - `plottingComplete.m`: Plots the policy rate, inflation, and exchange rates using complete data.
