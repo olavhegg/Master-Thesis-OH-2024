@@ -1,7 +1,11 @@
-# Master-Thesis-OH-2024
-Repository for my Master Thesis named; New Ways to Control Exchange Rates and Financial Markets
+# Master Thesis Repository
+
+Repository for my Master Thesis named; **New Ways to Control Exchange Rates and Financial Markets**
 
 This repository contains all the MATLAB scripts, Simulink models, and data files used for the analysis and simulations conducted in the Master's thesis. The repository is organized into several folders, each focusing on a specific aspect of the thesis.
+
+- **Author**: Olav Heggelund
+- **Completion Date**: Spring 2024
 
 ## Folder Structure
 
